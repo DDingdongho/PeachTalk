@@ -1,0 +1,14 @@
+{
+  "inputHint": "메시지를 입력하세요...",
+  "sendButtonText": "전송",
+  "searchHint": "대화 내용 검색",
+  "noResultsText": "검색 결과가 없어요.",
+  "errorText": "메시지를 보내지 못했어요. 잠시 후 다시 시도해주세요.",
+  "missingApiKeyText": "OPENAI_API_KEY가 설정되지 않았어요.",
+  "panelColor": "#F2FFFFFF",
+  "userBubbleColor": "#FF8A50",
+  "userBubbleTextColor": "#FFFFFF",
+  "aiBubbleColor": "#FFF1E6",
+  "aiBubbleTextColor": "#5A3A28",
+  "timestampColor": "#B0A296"
+}

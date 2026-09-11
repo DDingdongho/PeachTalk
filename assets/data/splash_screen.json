@@ -1,0 +1,9 @@
+{
+  "loadingText": "불러오는 중...",
+  "peachImage": "assets/images/PeachTalkLogo.png",
+  "backgroundColor": "#FFF6EE",
+  "loadingTextColor": "#8A6A55",
+  "progressColor": "#FF8A50",
+  "progressTrackColor": "#FFD9BC",
+  "loadingDurationMs": 2200
+}

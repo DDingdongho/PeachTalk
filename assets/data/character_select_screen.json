@@ -1,0 +1,29 @@
+{
+  "chatButtonText": "대화하기",
+  "backgroundColor": "#FFF6EE",
+  "cardColor": "#FFFFFF",
+  "nameColor": "#5A3A28",
+  "descriptionColor": "#8A6A55",
+  "buttonColor": "#FF8A50",
+  "buttonTextColor": "#FFFFFF",
+  "characters": [
+    {
+      "id": "nia",
+      "name": "니아",
+      "image": "assets/images/characters/nia.png",
+      "description": "안녕, 나는 니아야.\n차분하게 네 이야기를 들어줄게.\n편하게 말 걸어줘."
+    },
+    {
+      "id": "aya",
+      "name": "아야",
+      "image": "assets/images/characters/aya.png",
+      "description": "안녕하세요, 아야예요!\n밝고 재미있는 이야기를 좋아해요.\n같이 수다 떨어요!"
+    },
+    {
+      "id": "komi",
+      "name": "코미",
+      "image": "assets/images/characters/komi.png",
+      "description": "안녕! 코미라고 해.\n엉뚱한 상상을 즐겨.\n심심할 때 나랑 놀자!"
+    }
+  ]
+}
